@@ -1,1 +1,4 @@
-ECHO 处于打开状态。
+# 默认忽略的文件
+/.vscode/
+/.idea/
+/ultralytics/
